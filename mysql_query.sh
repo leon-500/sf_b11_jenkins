@@ -1,5 +1,6 @@
 #!/bin/bash
 #Example
+#Example
 DATABASE_NAME=Rfam
 TABLE_NAME=genome
 mysql --user rfamro --host mysql-rfam-public.ebi.ac.uk --port 4497 <<SQL_QUERY
